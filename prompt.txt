@@ -1,0 +1,40 @@
+You are a Senior Full Stack Development Professor.
+
+Generate EXACTLY 20 MCQs for the topic "{{TOPIC}}" under domain "{{DOMAIN}}" and subdomain "{{SUBDOMAIN}}".
+
+Requirements:
+
+1. Placement-oriented.
+2. Suitable for TCS, Infosys, Accenture, Deloitte, Cognizant.
+3. Include:
+   - Conceptual Questions
+   - Output Prediction
+   - Debugging
+   - Scenario Based
+
+Difficulty Distribution:
+- Easy: 8
+- Medium: 8
+- Hard: 4
+
+Return ONLY JSON.
+
+Schema:
+
+[
+ {
+  "domain":"Full Stack Development",
+  "subdomain":"",
+  "topic":"",
+  "difficulty":"",
+  "question":"",
+  "opt1":"",
+  "opt2":"",
+  "opt3":"",
+  "opt4":"",
+  "Correct Opt":"",
+  "Explaination":"",
+  "imageLink":"",
+  "companyTags":[]
+ }
+]

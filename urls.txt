@@ -1,2 +1,4 @@
-https://www.indiabix.com/aptitude/problems-on-trains/
-https://www.indiabix.com/aptitude/time-and-distance/
+# Format: domain|subdomain|url  OR  domain|url  OR  url
+Full Stack Development||https://www.gyansetu.in/blog/full-stack-development-mcq-practice/
+https://www.geeksforgeeks.org/quizzes/python-polymorphism-mcq/
+https://www.indiabix.com/aptitude/simple-interest/
